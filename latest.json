@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.15.5",
+  "versionCode": 43,
+  "versionName": "0.15.6",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Simge telefonda düzgün görünecek şekilde düzeltildi."
+  "notes": "Uygulama simgesi NOCTAB N logosu oldu."
 }
