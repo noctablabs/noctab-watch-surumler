@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "0.15.9",
+  "versionCode": 47,
+  "versionName": "0.16.0",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Son uygulamalardan kaydırıp kapatınca video artık duruyor."
+  "notes": "Bildirim panelindeki oynatıcı kaydırılıp kapatılınca video durur."
 }
