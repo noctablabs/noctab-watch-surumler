@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "0.16.1",
+  "versionCode": 51,
+  "versionName": "0.16.4",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Bildirimdeki oynatıcıya Kapat (✕) düğmesi eklendi."
+  "notes": "Bildirim panelindeki oynatıcıda ✕ Kapat düğmesi. Uygulama son uygulamalardan kapatılınca video durur."
 }
