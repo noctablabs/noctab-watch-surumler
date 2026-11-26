@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.15.1",
+  "versionCode": 39,
+  "versionName": "0.15.2",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Ayarlara \"Tekrarla\" eklendi: video bitince baştan başlar."
+  "notes": "Yeni uygulama simgesi: koyu zeminde vişne oynat üçgeni."
 }
