@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "0.16.4",
+  "versionCode": 52,
+  "versionName": "0.17.0",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Bildirim panelindeki oynatıcıda ✕ Kapat düğmesi. Uygulama son uygulamalardan kapatılınca video durur."
+  "notes": "Yeni: İçerik filtresi (Siz → Ayarlar). Oyun, magazin, prank gibi konuları gizleyebilirsin."
 }
