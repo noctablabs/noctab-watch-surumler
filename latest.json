@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "0.17.4",
+  "versionCode": 55,
+  "versionName": "0.17.3",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Kanalım düğmesi. Güncellemeler artık yayınlandığı an görünür."
+  "notes": "Siz sayfasına Kanalım düğmesi: kendi YouTube kanalını aç."
 }
