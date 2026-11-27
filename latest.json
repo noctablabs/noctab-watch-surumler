@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "0.18.0",
+  "versionCode": 58,
+  "versionName": "0.19.0",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Yeni: Kanalım stüdyosu — videolarını düzenle, kapak değiştir, sil, yeni video yükle."
+  "notes": "YouTube düzeni: Abonelikler alt sekme oldu, arama üst köşede, hap çipler. Otomatik Google yedeği ve manuel Yedekle/Geri yükle."
 }
