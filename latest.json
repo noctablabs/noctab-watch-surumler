@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "0.19.5",
+  "versionCode": 64,
+  "versionName": "0.19.6",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "WebView oynatıcı YouTube gömülü oynatıcıya geçti: yalnızca oynatıcı, reklam yok, klasik kontroller."
+  "notes": "Çocuk videoları WebView'de yeniden oynuyor; etraf gizli, kontroller yerinde."
 }
