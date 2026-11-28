@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "0.19.6",
+  "versionCode": 65,
+  "versionName": "0.20.0",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Çocuk videoları WebView'de yeniden oynuyor; etraf gizli, kontroller yerinde."
+  "notes": "Uygulamanın adı WATCHTAB oldu, yeni W logosu ve watchtab yazısı geldi."
 }
