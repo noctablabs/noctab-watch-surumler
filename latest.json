@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "0.19.0",
+  "versionCode": 59,
+  "versionName": "0.19.1",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "YouTube düzeni: Abonelikler alt sekme oldu, arama üst köşede, hap çipler. Otomatik Google yedeği ve manuel Yedekle/Geri yükle."
+  "notes": "Açılamayan videolar (çocuklar için işaretli vb.) artık YouTube'a gitmeden uygulama içinde reklamsız açılıyor."
 }
