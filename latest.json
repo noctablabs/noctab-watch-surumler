@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "0.20.0",
+  "versionCode": 66,
+  "versionName": "0.20.1",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Uygulamanın adı WATCHTAB oldu, yeni W logosu ve watchtab yazısı geldi."
+  "notes": "Doğru WATCHTAB W logosu uygulandı."
 }
