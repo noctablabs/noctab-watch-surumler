@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "0.19.1",
+  "versionCode": 60,
+  "versionName": "0.19.2",
   "apk": "https://raw.githubusercontent.com/noctablabs/noctab-watch-surumler/main/NOCTAB-WATCH.apk",
-  "notes": "Açılamayan videolar (çocuklar için işaretli vb.) artık YouTube'a gitmeden uygulama içinde reklamsız açılıyor."
+  "notes": "WebView oynatıcıda klasik kontroller (play/duraklat, ilerleme çubuğu, ayarlar) geldi."
 }
